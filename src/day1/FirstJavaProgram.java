@@ -76,12 +76,6 @@ public class FirstJavaProgram {
         System.out.println(a);*/
 
 
-
-
-
-
-
-
     }
 
 }
