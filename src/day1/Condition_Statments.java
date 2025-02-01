@@ -1,7 +1,7 @@
 package day1;
 
 public class Condition_Statments {
-    public static void main(String[] args) {
+    public static void main(StringEX[] args) {
 /*        int age = 4;
 
         if (age>= 18){

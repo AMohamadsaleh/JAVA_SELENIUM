@@ -1,7 +1,7 @@
 package day1;
 
 public class SearchElementInArray {
-    public static void main(String[] args) {
+    public static void main(StringEX[] args) {
         int a[] = {12, 34, 56, 89, 23, 33};
         int search_element = 89;
         boolean status = false;

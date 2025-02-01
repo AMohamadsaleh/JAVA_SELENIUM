@@ -1,9 +1,8 @@
 package day1;
-import day1.BankAccount;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(StringEX[] args) {
         BankAccount myacc = new BankAccount();
 
         myacc.setBalance(10000);
