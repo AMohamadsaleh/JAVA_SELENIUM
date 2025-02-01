@@ -18,6 +18,7 @@ public class SortingArray {
         Arrays.sort(s);
         System.out.println(Arrays.toString(s));
 
+
         }
 
 
